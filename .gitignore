@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+instance/
+.env
+*.log
+
+# Dataset / models (track with Git LFS if large)
+# modelo_random_forest.pkl
